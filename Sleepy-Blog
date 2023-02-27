@@ -1,0 +1,36 @@
+#how to take input a.k.a never required,lops
+#name=input("what is your name? ")
+#print("Welcome to the dead " +name)
+
+#type conversion
+#birth_year=input("Enter your birth year: ")
+#age=2023-int(birth_year)
+#print(age)
+
+#int(),str(),bool(),float(),double()
+
+#Writing a calculator
+
+#int(number1,number2)--WRONG CODE 
+#input("Enter first number ",number1)
+#input("Enter 2nd Number",number2)
+#add=number1+number2
+#print(add)
+
+#first=int(input("Write First Number: "))
+#second=int(input("Write Second Number: "))
+#sum=first+second
+#print("Sum is:"+str(sum)) #we have to convert here as well cause python can't add str to int
+
+#statement=("python is a great language")
+#print(statement.find('is'))
+#print('best' in statement)
+
+#x=10
+# x=x+3
+#####################################################################
+# It is perfectly fine and natural to write "multi-line" comments   #
+# using multiple single line comments. Some people even draw boxes  #
+# with them!                                                        #
+##################################################################### lol what the heck!
+#x+=3(augmented or enhanced operators)
