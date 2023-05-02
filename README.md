@@ -1,27 +1,27 @@
-# Hi there  🐱‍🚀, I'm Himanshu Bhardwaj.
+Hi 👋 My name is Himanshu!
+==========================
 
-### [](https://github.com/Bhardwaj-Himanshu#passionate-about-python-learning-everything)Passionate about --ERROR 404. Learning Things.
+* ✉️  You can contact me at [himanshujay261201@gmail.com](mailto:himanshujay261201@gmail.com)
+* 🤝  I'm open to collaborating on anything!
 
--   🔭  I’m currently working and learning  **Python and Web Development (Self Web Portfolio)**.
-    
--   🌱  I’m currently learning  **JavaScript/TypeScript**.
-    
--   👯  I’m contributing on  [My own repository](https://github.com/Bhardwaj-Himanshu?tab=repositories).
-    
--   🤝  You can take a look at the final work of the Master of Vision in this  [Coming in Future]().
-    
--   👨‍💻  All of my projects are available at  [my GitHub repositories.](https://github.com/Bhardwaj-Himanshu?tab=repositories)
-    
--   📝  My best Work till date  [On-Web](https://www.youtube.com/watch?v=dQw4w9WgXcQ). Soon trying to start a blogging website to markdown important failures and achievements.
-    
--   💬  Ask me about  **Myself or anything in general?**
-    
--   📫  How to reach me  **himanshujay261201@gmail.com**.
-    
--   ⚡  Fun fact  **I sleep twice a day.**
+### Skills
 
--   🍇  Need to make this **Graphically-Gamed**.
-    
 
-### [](https://github.com/igarag#languages-and-tools)Languages and Tools:
-[![linux](https://camo.githubusercontent.com/f903efdd3558d099c54fafbce2aff0ccfa5a2a08d325fdd5884822ea4c270f60/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7562756e74752f7562756e74752d69636f6e2e737667)](https://ubuntu.com/) [![bootstrap](https://camo.githubusercontent.com/e9306bcaa5457a3bb58aa38c9f2fb71e856479bd7a3726204ca07412e45f667f/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f707974686f6e2f707974686f6e2d69636f6e2e737667)](https://www.python.org/) [![git](https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667)](https://git-scm.com/) [![flask](https://camo.githubusercontent.com/5cca80b6bc72b63b0633f20cc4d1575d1af408c60a7242dc0779cfd321aeb84f/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f76696d2f76696d2d69636f6e2e737667)](https://www.vim.org/)
+<p align="left">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+</p>
+
+
+### Socials
+
+<p align="left"> <a href="https://discord.com/users/Himanshu_B#6521" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Bhardwaj-Himanshu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/himanshu--bhardwaj/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/https://twitter.com/himansh44932539" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Bhardwaj-Himanshu"><img src="https://github-readme-stats.vercel.app/api?username=Bhardwaj-Himanshu&show_icons=true&hide=stars,&count_private=true&title_color=3382ed&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=true&show_icons=true" alt="Bhardwaj-Himanshu's GitHub stats" /></a>
