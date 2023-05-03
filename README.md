@@ -21,7 +21,7 @@ Hi 👋 My name is Himanshu!
 <p align="left"> <a href="https://discord.com/users/Himanshu_B#6521" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Bhardwaj-Himanshu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/himanshu--bhardwaj/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/https://twitter.com/himansh44932539" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Reality
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bhardwaj-Himanshu&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bhardwaj-Himanshu&theme=dark&background=FFFFFF)](https://git.io/streak-stats)
 
 
 
