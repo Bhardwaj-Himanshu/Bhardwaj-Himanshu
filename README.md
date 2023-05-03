@@ -22,6 +22,4 @@ Hi 👋 My name is Himanshu!
 
 ### Badges
 
-<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Bhardwaj-Himanshu"><img src="https://github-readme-stats.vercel.app/api?username=Bhardwaj-Himanshu&show_icons=true&hide=stars,&count_private=true&title_color=3382ed&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=true&show_icons=true" alt="Bhardwaj-Himanshu's GitHub stats" /></a>
