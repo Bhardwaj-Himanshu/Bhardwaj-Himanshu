@@ -2,7 +2,7 @@ Hi 👋 My name is Himanshu!
 ==========================
 
 * ✉️  You can contact me at [himanshujay261201@gmail.com](mailto:himanshujay261201@gmail.com)
-* 🤝  I'm open to collaborating on anything!
+* 🤝  I'm open to collaborating on anything.
 
 ### Skills
 
