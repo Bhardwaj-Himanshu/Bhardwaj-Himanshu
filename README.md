@@ -2,7 +2,7 @@ Hi 👋 My name is Himanshu!
 ==========================
 
 * ✉️  You can contact me at [himanshujay261201@gmail.com](mailto:himanshujay261201@gmail.com)
-* 🤝  I'm open to collaborating on anything.
+* 🤝  It's not a bug, it's an undocumented feature!.
 
 ### Skills
 
@@ -16,7 +16,7 @@ Hi 👋 My name is Himanshu!
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/Himanshu_B#6521" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/himanshu--bhardwaj/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/https://twitter.com/himansh44932539" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/Himanshu_B#6521" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32"/></a>  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/himanshu--bhardwaj/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/https://twitter.com/himansh44932539" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 
 
